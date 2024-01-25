@@ -10,6 +10,10 @@ namespace hithubtest
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Hello world12345");
+            MessageBox.Show("Hello world12345");
+            MessageBox.Show("Hello world12345");
+            MessageBox.Show("Hello world12345");
+            MessageBox.Show("Hello world12345");
         }
     }
 }
